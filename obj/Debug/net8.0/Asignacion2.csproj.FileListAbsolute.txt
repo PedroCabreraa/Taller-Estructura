@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\Programacion\Asignacion2\obj\Debug\net8.0\Asignacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Programacion\Asignacion2\obj\Debug\net8.0\Asignacion2.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Programacion\Asignacion2\obj\Debug\net8.0\Asignacion2.AssemblyInfo.cs
+C:\Users\usuario\Documents\Programacion\Asignacion2\obj\Debug\net8.0\Asignacion2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Programacion\Asignacion2\obj\Debug\net8.0\Asignacion2.dll
+C:\Users\usuario\Documents\Programacion\Asignacion2\obj\Debug\net8.0\refint\Asignacion2.dll
+C:\Users\usuario\Documents\Programacion\Asignacion2\obj\Debug\net8.0\Asignacion2.pdb
+C:\Users\usuario\Documents\Programacion\Asignacion2\bin\Debug\net8.0\Asignacion2.exe
+C:\Users\usuario\Documents\Programacion\Asignacion2\bin\Debug\net8.0\Asignacion2.deps.json
+C:\Users\usuario\Documents\Programacion\Asignacion2\bin\Debug\net8.0\Asignacion2.runtimeconfig.json
+C:\Users\usuario\Documents\Programacion\Asignacion2\bin\Debug\net8.0\Asignacion2.dll
+C:\Users\usuario\Documents\Programacion\Asignacion2\bin\Debug\net8.0\Asignacion2.pdb
+C:\Users\usuario\Documents\Programacion\Asignacion2\obj\Debug\net8.0\Asignacion2.genruntimeconfig.cache
+C:\Users\usuario\Documents\Programacion\Asignacion2\obj\Debug\net8.0\ref\Asignacion2.dll
